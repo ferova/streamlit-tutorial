@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#42fff2"
+secondaryBackgroundColor="#f6f6fb"
+
+[server]
+port = 5000
